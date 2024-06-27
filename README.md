@@ -8,6 +8,7 @@ https://platform.stratascratch.com/data-projects/outliers-detection
 
 ## Market Analysis in Dublin
 
+https://platform.stratascratch.com/data-projects/market-analysis-dublin
 
 ## Laptop price prediction
 
