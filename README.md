@@ -13,3 +13,7 @@ https://platform.stratascratch.com/data-projects/market-analysis-dublin
 ## Laptop price prediction
 
 https://platform.stratascratch.com/data-projects/laptop-price-prediction
+
+## Image Files Processing
+
+https://platform.stratascratch.com/data-projects/image-files-processing
