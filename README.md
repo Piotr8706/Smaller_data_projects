@@ -17,3 +17,11 @@ https://platform.stratascratch.com/data-projects/laptop-price-prediction
 ## Image to Pencil Sketch
 
 https://platform.stratascratch.com/data-projects/image-files-processing
+
+## Black Friday Purchases
+
+https://platform.stratascratch.com/data-projects/black-friday-purchases
+
+## Data Transformation
+
+https://platform.stratascratch.com/data-projects/data-transformation
